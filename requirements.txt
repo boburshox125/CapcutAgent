@@ -1,4 +1,4 @@
-mcp<2
+mcp[cli]<2
 mss
 Pillow
 pyautogui
